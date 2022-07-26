@@ -1,6 +1,19 @@
 # D&C
 D&C: A Divide-and-Conquer, IR-based, Multi-Classifer Approach to Bug Localization
 
+## Citing D&C
+
+You can cite D&C using the following bibtex:
+
+```
+@article{koyuncu2019d,
+  title={D\&c: A divide-and-conquer approach to ir-based bug localization},
+  author={Koyuncu, Anil and Bissyand{\'e}, Tegawend{\'e} F and Kim, Dongsun and Liu, Kui and Klein, Jacques and Monperrus, Martin and Traon, Yves Le},
+  journal={arXiv preprint arXiv:1902.02703},
+  year={2019}
+}
+  ```
+
 # Setup:
 
 	In order to run the code, python3 is necessary with the additional libraries such as LightGBM.
